@@ -1,3 +1,8 @@
+# A cool memory game 
+
+### rebuid this Project to practice your css (grid or even flexbox) knowledge and work more with useEffect and useState hooks . 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
